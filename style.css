@@ -1,0 +1,43 @@
+.cabeçalho {
+    background-color: #c92a6c;
+    display: flex;
+    justify-content: space-between;
+    height: 80px;
+    align-items: center;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 200px;
+}
+
+.logo {
+    background-color: #d1257b70;
+    height: 360px;
+}
+
+main {
+    display: flex;
+}
+
+.imagens {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* .imagens img {
+    width: 30px;
+    height: 100px;
+    margin-right: 200px;
+    margin-left: 300px;
+    
+} */
+
+.-CEP {
+    height: 600px;
+    width: 400px;
+}
